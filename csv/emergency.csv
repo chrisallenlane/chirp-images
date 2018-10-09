@@ -1,0 +1,12 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL
+1,NWSGNV,162.475000,off,0.000000,,88.5,88.5,023,NN,FM,5.00,,National Weather Service - Gainesville,,,,
+2,NATGRD,163.487500,off,0.000000,,88.5,88.5,023,NN,FM,5.00,,US National Guard (Emergency),,,,
+3,USMIL,163.512500,off,0.000000,,88.5,88.5,023,NN,FM,5.00,,US Military (Joint) Disaster Preparedness,,,,
+4,FEMA,138.225000,off,0.000000,,88.5,88.5,023,NN,FM,5.00,,FEMA Disaster Operations,,,,
+5,ACOFRE,154.325000,off,0.000000,Tone,156.7,88.5,023,NN,FM,5.00,,Alachua County Fire Dispatch,,,,
+6,ACOEMS,154.115000,off,0.000000,,88.5,88.5,023,NN,FM,5.00,,Alachua County EMS Dispatch,,,,
+7,ACOSHF,460.475000,off,0.000000,,88.5,88.5,023,NN,FM,5.00,,Alachua County Sheriff Dispatch,,,,
+8,ACOEMA,158.925000,off,0.000000,,88.5,88.5,023,NN,FM,5.00,,Alachua County Emergency Management,,,,
+9,SARNET,444.925000,+,5.000000,Tone,123.0,88.5,023,NN,FM,5.00,,SARNET - Gainesville,,,,
+10,SMPLX1,146.520000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,Simplex - 2m Band,,,,
+11,SMPLX2,446.000000,,5.000000,,88.5,88.5,023,NN,FM,5.00,,Simplex - 70cm Band,,,,
